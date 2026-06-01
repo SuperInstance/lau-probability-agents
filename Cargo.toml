@@ -1,0 +1,16 @@
+[package]
+name = "lau-probability-agents"
+version = "0.1.0"
+edition = "2021"
+description = "Probability theory foundations for agents — rigorous measure-theoretic framework"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-probability-agents"
+keywords = ["probability", "measure-theory", "martingale", "statistics", "agent"]
+categories = ["mathematics", "science"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+nalgebra = "0.33"
+
+[dev-dependencies]
+approx = "0.5"
