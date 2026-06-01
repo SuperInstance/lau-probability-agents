@@ -395,3 +395,11 @@ $$P(|X_n - X_0| \geq t) \leq 2 \exp\left(-\frac{t^2}{2 \sum c_k^2}\right)$$
 ## License
 
 MIT
+
+## References
+
+- **Billingsley, P.** (1995). *Probability and Measure*. Wiley. — Measure-theoretic foundations.
+- **Williams, D.** (1991). *Probability with Martingales*. Cambridge. — Martingale theory and Doob's inequalities.
+- **Doob, J.L.** (1953). *Stochastic Processes*. Wiley. — Optional stopping theorem.
+- **Hoeffding, W.** (1963). "Probability Inequalities for Sums of Bounded Random Variables." *J. Amer. Statist. Assoc.* 58, 13–30.
+- **Azuma, K.** (1967). "Weighted Sums of Certain Dependent Random Variables." *Tôhoku Math. J.* 19, 357–367.
